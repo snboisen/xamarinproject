@@ -1,0 +1,6 @@
+C:\code\xamarinproject\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe.config
+C:\code\xamarinproject\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe
+C:\code\xamarinproject\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.pdb
+C:\code\xamarinproject\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.csprojResolveAssemblyReference.cache
+C:\code\xamarinproject\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.exe
+C:\code\xamarinproject\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.pdb
